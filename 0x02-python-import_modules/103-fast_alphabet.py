@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-from my_alpha import result
+from uppercasealph import result
 print(result)
